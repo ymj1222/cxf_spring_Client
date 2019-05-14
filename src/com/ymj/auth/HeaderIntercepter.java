@@ -23,7 +23,7 @@ public class HeaderIntercepter extends AbstractSoapInterceptor {
  
 	public void handleMessage(SoapMessage soapMessage) throws Fault {
  
-		System.out.println("¿Í»§¶Ë¿ªÊ¼ÑéÖ¤ ");
+		System.out.println("å®¢æˆ·ç«¯éªŒè¯");
 		String spName = "ymj";
 		String spPassword = "223618";
  
